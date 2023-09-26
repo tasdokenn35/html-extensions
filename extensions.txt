@@ -1,0 +1,23 @@
+Visual Studio Code için HTML 5 geliştirme işlerinizi kolaylaştıracak bazı popüler embed eklentileri aşağıda sıralanmıştır:
+
+1. *Live Server:* Canlı bir önizleme sunarak HTML dosyalarınızı anında tarayıcıda görüntülemenizi sağlar.
+
+2. *Emmet:* Hızlı ve etkili HTML ve CSS kodu yazmanıza yardımcı olan güçlü bir eklenti. Örneğin, `html:5` yazarak bir HTML5 şablonu oluşturabilirsiniz.
+
+3. *HTML Boilerplate:* HTML dosyalarınızı başlatmak için temel bir şablona sahip olmanızı sağlar.
+
+4. *Auto Rename Tag:* Bir HTML etiketini yeniden adlandırdığınızda eşleşen kapanış etiketini otomatik olarak günceller.
+
+5. *HTML CSS Support:* HTML içinde CSS sınıf ve ID önerileri sunar ve CSS dosyalarınıza kolayca bağlantı eklemenizi sağlar.
+
+6. *HTML Snippets:* Hızlıca HTML kodlarınızı oluşturmanız için kullanışlı kısayollar sunar.
+
+7. *HTMLHint:* HTML kodunuzu denetler ve hataları veya stil kılavuzu ihlallerini gösterir.
+
+8. *HTML to CSS autocompletion:* CSS dosyalarında HTML etiketlerine otomatik tamamlama önerileri sunar.
+
+9. *Auto Close Tag:* Bir HTML etiketi yazdığınızda otomatik olarak kapanış etiketini ekler.
+
+10. *Prettier:* HTML ve diğer kodları otomatik olarak biçimlendirir ve düzenler.
+
+Bu eklentiler, Visual Studio Code'u HTML 5 geliştirmesi için güçlü bir araç haline getirebilir ve iş akışınızı hızlandırabilir. İhtiyaçlarınıza ve tercihlerinize bağlı olarak bu eklentilerden bazılarını veya tümünü kullanabilirsiniz.
